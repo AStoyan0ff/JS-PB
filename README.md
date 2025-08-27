@@ -74,8 +74,11 @@
 📚 **Допълнителни ресурси:**
 
 ✔ `https://developer.mozilla.org/en-US/docs/Web/JavaScript`
+
 ✔ `https://javascript.info`
+
 ✔ `https://ecma-international.org/publications-and-standards/standards/ecma-262`
+
 
 ---
 
