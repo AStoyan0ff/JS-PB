@@ -49,15 +49,16 @@
 
 🤔 **Условни конструкции** 
 
-  ✔ `if()...else if()...else()` statements 
-  ✔ `switch()` statements
+  ✔ `if()`
+  ✔ `else if()`
+  ✔ `else()`  
+  ✔ `switch()` 
 
-🔁 **Вложени условни конструкции** - *Цикли:* 
+🔁 **Вложени условни конструкции** - *Цикли:*
 
-✔ `for` цикъл
-✔ `while` цикъл
-✔ `do...while` цикъл
+✔ `for()`
+✔ `while()`
+✔ `do...while()`
 ✔ `break` и `continue` statements
-
 ---
 
