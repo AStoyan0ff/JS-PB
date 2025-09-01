@@ -33,7 +33,7 @@
   
   ✔ `Boolean`
   
-  ✔ `null` - I'm not shure about this =)
+  ✔ `null` - I'm not sure about this =)
   
   ✔ `undefined` 
   
