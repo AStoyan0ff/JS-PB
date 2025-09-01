@@ -30,7 +30,7 @@
   ✔ `String`  
   ✔ `Number`  
   ✔ `Boolean`  
-  ✔ `null`  
+  ✔ `null` - I'm not shure about this =) 
   ✔ `undefined`  
   ✔ `Symbol`  
   
