@@ -27,11 +27,16 @@
 
   *Примитивни типове данни:*      
 
-  ✔ `String`  
-  ✔ `Number`  
-  ✔ `Boolean`  
-  ✔ `null` - I'm not shure about this =) 
-  ✔ `undefined`  
+  ✔ `String` 
+  
+  ✔ `Number` 
+  
+  ✔ `Boolean`
+  
+  ✔ `null` - I'm not shure about this =)
+  
+  ✔ `undefined` 
+  
   ✔ `Symbol`  
   
 
